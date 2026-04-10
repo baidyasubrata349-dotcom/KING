@@ -107,8 +107,8 @@ def show_result(parsed, number):
     else:
         print_colored(json.dumps(parsed, indent=2, ensure_ascii=False))
 
-    print(Fore.RED + "\nâ¡ Made by ANISH EXPLOITS")
-    print(Fore.BLUE + "ð Join: https://t.me/ExploitsAbout\n")
+    print(Fore.RED + "\nâ¡ Made by DARK SHADOW")
+    print(Fore.BLUE + "ð  ")
 
 # === Main ===
 def main():
